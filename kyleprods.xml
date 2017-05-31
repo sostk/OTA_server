@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <!-- Your ROM Name -->
-  <RomName> Viper-kyleprods-7.1.2-Naja-v1.1-20170531-UNOFFICIAL</RomName>
+  <RomName> Viper-kyleprods-7.1.2-Naja-v1.1-20170601-UNOFFICIAL</RomName>
   <VersionName>20170601</VersionName>
   <!-- Your ROM version. MUST be incrementally larger than previous versions -->
   <!-- Do NOT use letters in your version number. Integers only -->
@@ -14,7 +14,7 @@
     <!-- HTTP link will open a web page -->
     <!-- Direct Link overrides HTTP link -->
   <DirectUrl>DIRECT LINKS HERE</DirectUrl>
-  <HttpUrl>www.androidfilehost.com/?fid=817550096634773377</HttpUrl>
+  <HttpUrl>www.androidfilehost.com/?fid=673368273298958871</HttpUrl>
   <!-- What version are you issuing? -->
   <Android>7.1.2</Android>
   <!-- Providing File Checking for direct downloads. You SHOULD offer this for your users whether using HTTP or Direct -->
